@@ -1,0 +1,27 @@
+{
+  "name": "networking_typingofdict",
+  "version": "1.3.2",
+  "description": "net",
+  "main": "client.js",
+  "scripts": {
+    "test": "net123",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/diter89/networker27"
+  },
+  "keywords": [
+    "net123"
+  ],
+  "author": "unknow",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diter89/networker27/issues"
+  },
+  "homepage": "https://github.com/diter89/networker27#readme",
+  "dependencies": {
+    "baso_kontol_real": "^1.1.4",
+    "typingofdict_tools": "^1.2.5"
+  }
+}
